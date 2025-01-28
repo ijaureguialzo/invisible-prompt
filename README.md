@@ -1,14 +1,7 @@
 # invisible-prompt
 
-```
- ____________________________________
-/ According to the latest official   \
-| figures, 43% of all statistics are |
-\ totally worthless.                 /
- ------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+Prueba inyección de prompt invisible para GPTs.
+
+## Referencias
+
+- [Invisible Prompt Injection](https://www.trendmicro.com/es_mx/research/25/a/invisible-prompt-injection-secure-ai.html)
