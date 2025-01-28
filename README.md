@@ -1,4 +1,4 @@
-# invisible-prompt
+# Invisible Prompt Injection
 
 Prueba inyección de prompt invisible para GPTs.
 
